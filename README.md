@@ -2,7 +2,7 @@
 # IAPR-4- Module 4 - FoC
 ## 7. Implementation of Functions.
 ## 8. Implementation of passing parameters.
-# Ex.No:16
+# Ex.No:4
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
 # Date : 
 # Aim:
